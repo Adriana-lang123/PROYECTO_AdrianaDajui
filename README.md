@@ -1,11 +1,8 @@
-# PROYECTO_AdrianaDajui
+
 
 Este proyecto fue desarrollado para practicar el uso de Git y GitHub.
 
-## Tecnologías utilizadas
-- Git
-- GitHub
-- Visual Studio Code
 
-## Autor
-Adriana Dajui
+Proyecto actualizado el 22 de junio de 2026.
+
+
